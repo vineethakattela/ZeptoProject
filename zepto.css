@@ -1,0 +1,173 @@
+
+.navbar{
+background-color: blue;
+display: flex;
+text-align: center;
+
+}
+.logo img{
+    height:120px;
+    width: 100px;
+    position:relative;
+    top: 20px;
+}
+.logo big{
+    bottom:20px;
+    color:white;
+}
+.search input{
+    height: 40px;
+    width:450px;
+    position: relative;
+    top:50px;
+    left: 150px;
+    border-radius: 5px;
+
+}
+h5{
+    color:white;
+    position: relative;
+    top: 60px;
+    left:200px;
+    
+}
+button img{
+    height: 20px;
+    width: 20px;
+    color: white;
+    
+    }
+button{
+    color: white;
+    position: relative;
+    left: 300px;
+    top:40px;
+    background-color:red;
+    height:60px;
+    width:130px;
+    border-radius: 10px;
+}
+.content1{
+    background-color: rgb(230, 12, 230);
+    height:30px;
+    padding-top: 40px;
+}
+.content1 h4{
+    color:white;
+    align-items: center;
+    position: relative;
+    left: 450px;
+    bottom:50px;
+}
+.content2 img{
+    height:200px;
+    width: 1200px;
+    margin:50px;
+    position:relative;
+    right: 45px;
+    border-radius: 10px;
+}
+.content3{
+    display:flex;
+    justify-content: space-evenly;
+}
+.search1 img{
+    height: 250px;
+    width: 270px;
+}
+.content4 h2{
+    color:black;
+    display: flex;
+    
+}
+.search2 img{
+    height: 100px;
+    width: 110px;
+   
+}
+.search3 img{
+    height: 100px;
+    width: 110px;
+}
+.content5{
+    display: flex;
+    justify-content: space-around;
+  
+    
+}
+.search4 img{
+    height: 100px;
+    width: 110px;
+}
+.search5 img{
+    height: 100px;
+    width: 110px;
+}
+.search6 img{
+    height: 100px;
+    width: 110px;
+}
+span{
+    border: 1px solid red;
+    height: 20px;
+   width:10px;
+   position: relative;
+   left: 60px;
+}
+.search7 img{
+    height: 100px;
+    width: 110px;
+}
+.search8 img{
+    height: 100px;
+    width: 110px;
+}
+.icon img{
+    height: 20px;
+    width: 20px;
+    position:relative;
+    right: 300px;
+    top: 60px;
+    }
+    .search2{
+        border: 1px solid;
+        box-shadow: 1px 1px 5px  ;
+       width:150px;
+       border:none;
+}
+.search3{
+    border: 1px solid;
+    box-shadow: 1px 1px 5px  ;
+   width:150px;
+   border:none;
+}
+.search4{
+    border: 1px solid;
+    box-shadow: 1px 1px 5px  ;
+   width:150px;
+   border:none;
+}
+.search5{
+    border: 1px solid;
+    box-shadow: 1px 1px 5px  ;
+   width:150px;
+   border:none;
+}
+.search6{
+    border: 1px solid;
+    box-shadow: 1px 1px 5px  ;
+   width:150px;
+   border:none;
+}
+.search7{
+    border: 1px solid;
+    box-shadow: 1px 1px 5px  ;
+   width:150px;
+   border:none;
+}
+.search8{
+    border: 1px solid;
+    box-shadow: 1px 1px 5px  ;
+   width:150px;
+   border:none;
+}
